@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "app_id": "app_6f8c5463-d575-4bc3-9eac-07befe9dc065",
+      "org_id": "user_e33e3c72-5d38-475a-87c5-11990ae7e5e6",
+      "deploy_url": "https://push-n3-par-clevercloud-customers.services.clever-cloud.com/app_6f8c5463-d575-4bc3-9eac-07befe9dc065.git",
+      "git_ssh_url": "git+ssh://git@push-n3-par-clevercloud-customers.services.clever-cloud.com/app_6f8c5463-d575-4bc3-9eac-07befe9dc065.git",
+      "name": "dictator_game_LLM_del1st",
+      "alias": "dictatorgameLLMdel1st"
+    }
+  ]
+}
