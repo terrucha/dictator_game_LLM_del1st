@@ -43,14 +43,3 @@ OPENAI_API_KEY = environ.get('OPENAI_API_KEY')
 instructions_path='dictator_game/instructions_LLM.txt'
 openai_model='gpt-4o-mini'
 
-#DATABASES = {
-#    'default': {
-#        'ENGINE': 'django.db.backends.postgresql',
-#        'NAME': 'otree_db',  # Your PostgreSQL database name
-#        'USER': 'postgres',  # Your PostgreSQL username
-#        'PASSWORD': 'qag869RAK',  # Your PostgreSQL password
-#        'HOST': 'localhost',  # Or the IP address of your PostgreSQL server
-#        'PORT': '5432',  # Default PostgreSQL port
-#    }
-#}
-
